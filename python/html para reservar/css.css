@@ -1,0 +1,10 @@
+		#body{
+			background-color: #653EF7;
+		}
+		#div{
+			font-weight: bold;
+			background-color: #9555ED;
+			border-style: solid;
+			border-color: black;
+			padding: 10px;
+		}
